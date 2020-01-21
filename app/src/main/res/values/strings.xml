@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SveikiPasaule</string>
+    <string name="hello">Sveiciens pasaulei no Grupas 2 : Andis Lazdiņš, Emīls Lubuzovs, Olģerts Klāvs Balabāns!</string>
+    <string name="world">Šī ir mana Andis pirmā Android lietotne!</string>
+</resources>
